@@ -2,11 +2,9 @@
 
 **Open source programmable mechanical keyboard.**
 
-ANAVI Wings 50 is an open source, custom-programmable, mini keyboard/keypad.
+ANAVI Wings 50 is an open source, custom-programmable split keyboard.
 
-ANAVI Wings 50 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/). Compatible with [KMK firmware](https://github.com/KMKfw/kmk_firmware/tree/master/boards/anavi/macro-pad-10) and [QMK firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/anavi).
-
-[ANAVI Wings 50, ANAVI Knob 1 and ANAVI Knobs 3 were brought to market through a crowdfunding campaign at Crowd Supply](https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-10). For more details please visit https://anavi.technology/
+ANAVI Wings 50 has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad-pcb.org/). For more details please visit https://anavi.technology/
 
 # License
 
